@@ -1,0 +1,93 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.hero-container {
+  background-color: #f0fff0;
+}
+
+.logo-size {
+  width: 211px;
+  height: 60px;
+}
+
+.my-button {
+  background-color: #21b573;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+
+}
+
+.top-p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #FD511A;
+  line-height: 36px;
+}
+
+.hero-header {
+  font-size: 48px;
+  font-weight: 700;
+  color: #000000;
+}
+
+.hero-span {
+  color: #21B573;
+}
+
+.sub-p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #6C6B6B;
+  line-height: 36px;
+}
+
+.main-button {
+  background-color: #21b573;
+  color: #fff;
+  border: 0;
+  padding: 12px 36px;
+  border-radius: 36px;
+}
+
+.sm-button {
+  background-color: #21b573;
+  color: #fff;
+  border: 0;
+  padding: 8px 28px;
+  border-radius: 36px;
+  font-size: 13px;
+  line-height: 19px;
+}
+
+.summary-image {
+  width: 72px;
+  height: 80px
+}
+
+.summary-container {
+  background-color: #fff;
+}
+
+.card-bg {
+  background-color: #F8FFFB;
+
+}
+
+.card-bg:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transition: .5s;
+}
+
+.course-icon {
+  width: 18px;
+  height: 20px;
+  margin: 0 10px 0 0px;
+}
+
+.testimonial-img {
+  width: 120px;
+  height: 120px;
+}
